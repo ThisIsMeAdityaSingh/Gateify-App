@@ -1,0 +1,19 @@
+.parent {
+    height: 100%;
+    display: grid;
+    place-items: center;
+    width: 100%;
+    background-color: #1677ff;
+}
+
+.formContainer {
+    width: 85%;
+    background-color: white;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.formContainer h1{
+    text-align: center;
+}
